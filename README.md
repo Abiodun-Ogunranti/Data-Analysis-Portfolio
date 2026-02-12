@@ -8,5 +8,6 @@ Power BI
 
 
 ## Projects
-Customer Churn Analysis
-Sales Performance Analysis
+Customer Churn Analysis.
+
+Sales Performance Analysis.
